@@ -1,1 +1,1 @@
-# EventTreeCA
+# This project provides an implementation of a PTree data analysis system, originally written in C. The code is designed to process and analyze raster files (e.g., GLIF.dat) and perform event tree analysis using the PTree structure.
